@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **any improvements to my projects.**
 
-- 👨‍💻 All of my projects are available on my [Github Page](https://github.com/zeyadsallam)
+- 👨‍💻 All of my projects are available on my [Github Page](https://github.com/zeyadsallam?tab=repositories)
 - 
 - 💬 Ask me about **any FullStack related inquires.**
 
