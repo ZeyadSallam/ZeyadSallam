@@ -11,15 +11,15 @@
 
 - 👯 I’m looking to collaborate on **Any Project!**
 
-- 🤝 I’m looking for help with **any improvements to my projects.**
+- 🤝 I’m looking for help with **Any Project Improvements.**
 
 - 👨‍💻 All of my projects are available on my [Github Page](https://github.com/zeyadsallam?tab=repositories)
 - 
-- 💬 Ask me about **any FullStack related inquires.**
+- 💬 Ask me about **Any FullStack Related Inquires.**
 
 - 📫 How to reach me **zeyadsallam20@gmail.com**
 
-- ⚡ Fun fact **I've been coding since I was 13 years old!**
+- ⚡ Fun fact **I've Been Coding Since I Was 13 Years Old!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
