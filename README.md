@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://twitter.com/zeyadsallam0" target="blank"><img src="https://img.shields.io/twitter/follow/zeyadsallam0?logo=twitter&style=for-the-badge" alt="zeyadsallam0" /></a> </p>
 
-- 🔭 I’m currently working on **my portfolio.**
+- 🔭 I’m currently working on **My Side Projects.**
 
 - 🌱 I’m currently mastering **FullStack Development**
 
-- 👯 I’m looking to collaborate on **any project!**
+- 👯 I’m looking to collaborate on **Any Project!**
 
 - 🤝 I’m looking for help with **any improvements to my projects.**
 
-- 👨‍💻 All of my projects are available on [Github profile for now!](Github profile for now!)
-
+- 👨‍💻 All of my projects are available on my [Github Page](https://github.com/zeyadsallam)
+- 
 - 💬 Ask me about **any FullStack related inquires.**
 
 - 📫 How to reach me **zeyadsallam20@gmail.com**
 
-- ⚡ Fun fact **I've been coding ever since I was 13 years old!**
+- ⚡ Fun fact **I've been coding since I was 13 years old!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
