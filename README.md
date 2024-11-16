@@ -18,7 +18,7 @@
 
 📍 **Based in Cairo, Egypt**  
 
-I'm Zeyad Sallam, a self-taught software engineer with a passion for innovation, problem-solving, and creating impactful technology. I've been programming since I was just 13 years old, making me a developer with years of experience building real-world solutions. I specialize in crafting end-to-end solutions that solve real-world challenges and bring ideas to life.
+I'm Zeyad Sallam, a 17-year-old self-taught software engineer with a passion for innovation and problem-solving. I've been programming since I was 13, gaining years of experience in building real-world solutions. I specialize in crafting end-to-end solutions to solve real-world challenges and bring ideas to life.
 
 - **🚀 Founder of [Softworks](https://softworks.studio):**  
   Delivering custom software solutions tailored to elevate businesses.  
@@ -27,7 +27,7 @@ I'm Zeyad Sallam, a self-taught software engineer with a passion for innovation,
   Collaborated with major brands to create unique digital experiences.  
 
 - **🎓 Lifelong Learner:**  
-  Constantly exploring new technologies and refining my skills to stay ahead in the ever-evolving tech landscape.
+  Continuously exploring new technologies and refining my skills to stay ahead in the ever-evolving tech landscape.
 
 📧 **Email:** [zeyad@softworks.studio](mailto:zeyad@softworks.studio)
 
@@ -102,4 +102,3 @@ I'm Zeyad Sallam, a self-taught software engineer with a passion for innovation,
 
 Interested in collaborating on a project or need a custom software solution? Feel free to reach out!  
 📧 [Email me](mailto:zeyad@softworks.studio) or connect on [LinkedIn](https://www.linkedin.com/in/zeyad-sallam/).
-
