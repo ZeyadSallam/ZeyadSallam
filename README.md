@@ -2,8 +2,8 @@
 ### Overly Passionate Full-Stack Developer | Tech Enthusiast from Egypt
 
 <p align="center">
-  <a href="https://twitter.com/zeyadsallam0" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/zeyadsallam0?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  <a href="https://x.com/zeyadsallam0" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/zeyadsallam0?logo=twitter&style=for-the-badge&logo=x" alt="X Follow" />
   </a>
   <a href="mailto:zeyad@softworks.studio">
     <img src="https://img.shields.io/badge/Email-zeyad@softworks.studio-red?style=for-the-badge&logo=gmail" alt="Email" />
