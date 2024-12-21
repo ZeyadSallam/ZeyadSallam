@@ -5,8 +5,8 @@
   <a href="https://twitter.com/zeyadsallam0" target="_blank">
     <img src="https://img.shields.io/twitter/follow/zeyadsallam0?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
-  <a href="mailto:zeyadsallam20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zeyadsallam20@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  <a href="mailto:zeyad@softworks.studio">
+    <img src="https://img.shields.io/badge/Email-zeyad@softworks.studio-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 
@@ -73,11 +73,11 @@ I'm Zeyad Sallam, a 17-year-old self-taught software engineer with a passion for
   <a href="https://www.youtube.com/@codatutorial" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="mailto:zeyad@softworks.studio">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://www.linkedin.com/in/zeyad-sallam/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zeyad@softworks.studio">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
